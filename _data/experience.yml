@@ -1,0 +1,19 @@
+# Jobs
+# Zuora
+- company: Zuora
+  position: Strategic Solutions Engineer Intern
+  duration: May, 2018 &mdash; Aug, 2018
+  summary: "<ul><li>Designed, developed, and deployed a Rails Middleware for collecting application metrics like response
+time, database time, number of resque workers, etc.</li>
+<li>Wrote queries in Grafana for setting up alerts for application failures and anomalies</li>
+<li>Wrote Continuous Queries in InfluxDB to automatically condense old data beyond a retention period for
+reducing space used</li><li><strong>Technologies: Ruby, Rails, Kubernetes, Prometheus, Telegraf, InfluxDB, Chronograf, Grafana</strong></li></ul>"
+
+# Director of Digital Stratgy
+- company: NLP lab, Stony Brook University
+  position: Graduate Student Researcher
+  duration:  Jan, 2018 &mdash; Present
+  summary: "<ul><li>Clinical Trials are hard to find. Searches show a lot of trials which might be irrelevant to the user. The aim of this project is to use Natural Language Processing (NLP) to extract information from the existing trials and ask questions to the user in order to reduce the search space and only return the most relevant trials.</li>
+  <li>Stats: Was able to reduce the number of searches of Diabetes related clinical trials in long island from ~80 to ~10</li>
+  <li><strong>Technologies: Python, pandas, numpy, tensorflow, matplotlib</strong></li>
+  </ul>"
