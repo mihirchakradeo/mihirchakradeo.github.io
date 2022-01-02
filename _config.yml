@@ -17,10 +17,10 @@ resume_title:                   "MS Computer Science"
 resume_contact_email:           "mihir.chakradeo@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "631-561-8063"
-resume_contact_address:         "Stony Brook, NY"
+# resume_contact_telephone:       "631-561-8063"
+# resume_contact_address:         "Stony Brook, NY"
 
-resume_header_contact_info:     "Stony Brook, NY • mihir.chakradeo@gmail.com"
+# resume_header_contact_info:     "Stony Brook, NY • mihir.chakradeo@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>I am a Software Engineer</p>"
